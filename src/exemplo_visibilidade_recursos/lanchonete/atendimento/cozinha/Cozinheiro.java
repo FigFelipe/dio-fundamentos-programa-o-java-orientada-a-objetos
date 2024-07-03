@@ -1,6 +1,4 @@
-package lanchonete.atendimento.cozinha;
-
-import lanchonete.atendimento.Atendente;
+package exemplo_visibilidade_recursos.lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
     //pode ser default

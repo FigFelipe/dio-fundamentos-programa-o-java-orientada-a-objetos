@@ -1,9 +1,8 @@
-package lanchonete;
+package exemplo_visibilidade_recursos.lanchonete;
 
-import lanchonete.area.cliente.Cliente;
-import lanchonete.atendimento.Atendente;
-import lanchonete.atendimento.cozinha.Almoxarife;
-import lanchonete.atendimento.cozinha.Cozinheiro;
+import exemplo_visibilidade_recursos.lanchonete.area.cliente.Cliente;
+import exemplo_visibilidade_recursos.lanchonete.atendimento.Atendente;
+import exemplo_visibilidade_recursos.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main(String[] args) {

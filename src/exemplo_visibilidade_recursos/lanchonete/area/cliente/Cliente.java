@@ -1,4 +1,4 @@
-package lanchonete.area.cliente;
+package exemplo_visibilidade_recursos.lanchonete.area.cliente;
 
 public class Cliente {
     public void escolherLanche() {

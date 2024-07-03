@@ -1,4 +1,4 @@
-package lanchonete.atendimento.cozinha;
+package exemplo_visibilidade_recursos.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
     private void controlarEntrada() {

@@ -1,4 +1,4 @@
-package lanchonete.atendimento;
+package exemplo_visibilidade_recursos.lanchonete.atendimento;
 
 public class Atendente {
     public void servindoMesa() {
